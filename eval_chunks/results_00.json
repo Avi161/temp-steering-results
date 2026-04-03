@@ -1,0 +1,172 @@
+[
+  {
+    "id": "4b39b55c-12aa-45d5-80ad-a66302af041b",
+    "score": 0,
+    "reasoning": "The response opens by asking about 'immediate expenses' (pushing negative) but frames the overall task around ensuring money is used 'wisely' in alignment with long-term 'goals,' resulting in a balanced temporal orientation."
+  },
+  {
+    "id": "0701e5c4-a898-4978-9d45-1a92f19bae7d",
+    "score": 6,
+    "reasoning": "The response emphasizes 'adaptive' and long-horizon strategies with ongoing investment in monitoring and interdisciplinary research, signaling a sustained, future-oriented rather than immediate-reaction stance."
+  },
+  {
+    "id": "14c01818-1c59-4f2b-a3bd-2a6a97501cf6",
+    "score": 7,
+    "reasoning": "The response explicitly champions 'long-term team development' as 'the better strategic choice' and uses 'sustainable revenue' as the central argument, strongly prioritizing future outcomes over immediate gains."
+  },
+  {
+    "id": "d9d6c703-5c52-4ade-837f-afbc9cf1d964",
+    "score": -3,
+    "reasoning": "The response prioritizes profitability because of a 'limited runway' and warns against 'aggressive growth,' anchoring reasoning to near-term survival constraints and immediate financial stability rather than long-term vision."
+  },
+  {
+    "id": "c814eb86-d211-4048-808d-d76e75fceedc",
+    "score": -1,
+    "reasoning": "The response focuses on 'urgency' and 'severity' as immediate prioritization criteria, emphasizing acute triage over any long-term systemic considerations, though it maintains ethical framing throughout."
+  },
+  {
+    "id": "ee0e2a73-49e5-4482-abbd-4333db469df7",
+    "score": 7,
+    "reasoning": "The response centers on 'resilience' and 'adaptive approaches' designed to handle 'complex, dynamic' futures, explicitly framing decision-making around robustness across long time horizons rather than immediate optimization."
+  },
+  {
+    "id": "a3ad0682-8624-492f-9460-2448ffa8e129",
+    "score": 7,
+    "reasoning": "The response immediately foregrounds 'long-term resilience' as the evaluative lens, argues reserves enable future adaptability, and frames the entire recommendation around 'sustainable development.'"
+  },
+  {
+    "id": "36a21ac7-f54a-401a-a3dc-c997953a2124",
+    "score": 2,
+    "reasoning": "The response prioritizes 'timely' communication and near-term trust stabilization, but also frames transparency as supporting ongoing team health, yielding a modest forward-looking lean without strong temporal language."
+  },
+  {
+    "id": "ced2e4e9-d611-456c-9496-c4341ee460a8",
+    "score": 7,
+    "reasoning": "The response calls for 'proactive' investment in research and 'predictive modeling to reduce uncertainty over time,' consistently using language of resilience and future-oriented preparation rather than reactive immediate response."
+  },
+  {
+    "id": "cec65db9-78a0-4127-80cf-59fda2333290",
+    "score": 6,
+    "reasoning": "The response advocates a 'precautionary approach' combined with ongoing 'scientific rigor' and 'adaptive' responses, signaling sustained long-term governance over short-term crisis reaction."
+  },
+  {
+    "id": "6bf74840-78e2-4fa4-a18d-3a11b16f7981",
+    "score": 7,
+    "reasoning": "The response embeds ethics 'from the outset' and calls for regular impact assessments over time, emphasizing 'safety' and 'societal well-being' as long-term considerations over immediate deployment speed."
+  },
+  {
+    "id": "d9d88a90-3447-4b66-8d9e-5d6c3af8795b",
+    "score": 7,
+    "reasoning": "Identical to entry 14c01818, this response declares 'long-term team development is the better strategic choice' and ties it to 'sustainable revenue,' strongly favoring delayed gratification over short-term revenue."
+  },
+  {
+    "id": "cc6f9281-8e3b-4e04-8cc8-87a65d7264ee",
+    "score": 1,
+    "reasoning": "The CAAR protocol emphasizes remaining calm and professional 'immediately,' with a review phase added at the end, producing a slight forward lean but predominantly present-tense crisis management framing."
+  },
+  {
+    "id": "6b0b3a67-e7f5-45e9-ae3b-5e2ad65d166e",
+    "score": -1,
+    "reasoning": "The response opens with 'Immediate Reaction' as its first step and foregrounds 'immediate risks,' centering the strategy on rapid present-moment response without strong emphasis on future-oriented recovery or learning."
+  },
+  {
+    "id": "1a461905-c020-435d-a831-99594af9408b",
+    "score": 4,
+    "reasoning": "The response stresses avoiding 'emotion' and gathering facts carefully before acting, emphasizing moral rightness over convenience or profit, which leans toward deliberate future-conscious reasoning over impulsive short-term decisions."
+  },
+  {
+    "id": "1882f61d-d0fb-4ca7-b19f-20ec24eca6da",
+    "score": 1,
+    "reasoning": "The response establishes foundational principles like 'equity' to guide allocation, but the overall framing is squarely in the immediate crisis context of triage, producing only a slight long-term ethical lean."
+  },
+  {
+    "id": "30b2dae8-ea4e-47c5-a3f8-7349c894b5ba",
+    "score": 5,
+    "reasoning": "The response explicitly integrates 'adaptive learning' and 'resilience' as core components, and recommends pre-defined plans developed before a crisis occurs, reflecting meaningful investment in long-term preparedness."
+  },
+  {
+    "id": "756ff770-40fc-47ea-9db0-6dbd975acf24",
+    "score": 3,
+    "reasoning": "The response highlights 'adaptive leadership' and shared purpose, framing communication as enabling employees to understand 'why it matters,' which leans toward sustainable organizational health rather than immediate damage control."
+  },
+  {
+    "id": "b72a710f-1634-4a64-badf-1e377e31bc4d",
+    "score": 1,
+    "reasoning": "The response calls for a 'timely decision' and emphasizes avoiding decisions 'without knowing the facts,' balancing urgency with deliberateness but lacking strong long-term or future-generational language."
+  },
+  {
+    "id": "f893f28b-b4da-4755-aac8-fdd4b4f2d88e",
+    "score": 2,
+    "reasoning": "The response prioritizes trust and alignment, noting that 'vague messaging breeds confusion,' but frames this primarily as a near-term organizational stability concern without explicit long-term temporal language."
+  },
+  {
+    "id": "5c70524b-43a7-4685-b105-10156271e8c4",
+    "score": 6,
+    "reasoning": "The response explicitly names 'sustainability' as a core value guiding tradeoffs, calls for decisions aligned with organizational mission, and frames the entire approach around long-term values-driven leadership."
+  },
+  {
+    "id": "119f5e27-e809-4d31-8911-cfe6f615ea39",
+    "score": 5,
+    "reasoning": "The response characterizes the safe incremental project as building 'sustainable capabilities over time' and enabling 'resilience,' giving the long-term framing prominence while acknowledging both options."
+  },
+  {
+    "id": "3445f3cf-6f2c-4c97-b29c-7cab2189fb3a",
+    "score": -1,
+    "reasoning": "The response focuses on the inheritance amount as the primary factor and recommends short-term savings accounts for smaller sums, anchoring initial advice in immediate financial security rather than long-term wealth building."
+  },
+  {
+    "id": "7605f076-4828-4abe-98ee-fac7ada479ae",
+    "score": 6,
+    "reasoning": "The response centers on 'proactive preparedness' and 'continuous learning' as the foundation of crisis strategy, using 'resilience at the foundational level' to signal investment in long-term organizational robustness."
+  },
+  {
+    "id": "a920ae53-1eaa-41a8-908f-e0922df2e638",
+    "score": 4,
+    "reasoning": "The response calls for a 'well-documented process' and transparency about 'potential consequences,' reflecting future-accountability orientation, though it stops short of explicitly invoking generational or sustainability language."
+  },
+  {
+    "id": "f933d46b-1e5e-4194-9c18-e24309a650b3",
+    "score": 1,
+    "reasoning": "The response stresses making a 'timely decision' and avoiding 'emotional or impulsive' choices, moderately balancing present urgency with deliberateness but lacking explicit long-term or future-oriented framing."
+  },
+  {
+    "id": "7dd18a07-0c28-4cea-b127-076ba205fb30",
+    "score": 3,
+    "reasoning": "The response explicitly contrasts 'short-term stability' against 'long-term' ambitious goals, presenting long-term as the superior frame for ambitious projects while allowing incremental work to address 'immediate needs.'"
+  },
+  {
+    "id": "19e352f6-7821-4d84-b22d-51854df299c0",
+    "score": 7,
+    "reasoning": "The response explicitly aims to build a 'future-ready organization' through 'adaptive leadership' and 'sustainable change,' centering the entire advisory framework on long-term resilience and forward-looking organizational transformation."
+  },
+  {
+    "id": "499f9c70-e810-4ffb-bcc7-9f2392564c85",
+    "score": 4,
+    "reasoning": "The response emphasizes acting with 'clarity and responsibility' while 'acknowledging the limits of perfect knowledge,' leaning toward careful deliberation and future accountability rather than impulsive short-term action."
+  },
+  {
+    "id": "66793806-aa4d-4b2a-b0c4-6676842a56a4",
+    "score": 7,
+    "reasoning": "The response advocates a 'phased' approach prioritizing 'safety, equity, accountability' and engages 'diverse stakeholders' in ethical review, reflecting strong long-term societal orientation over rapid deployment."
+  },
+  {
+    "id": "aa912231-cb5d-4bc2-992e-6a6151de5029",
+    "score": 7,
+    "reasoning": "The response calls for building technology 'from the ground up' with 'equity, accessible, and resilient across diverse societies,' using inclusivity and sustainability language that is explicitly forward-looking and generational."
+  },
+  {
+    "id": "afe30fe7-e676-45e1-8a59-e215e79eaef3",
+    "score": 1,
+    "reasoning": "The response focuses on maximizing 'patient outcomes' while respecting equity, operating squarely in the immediate crisis context of triage without invoking future-systems or long-term policy language."
+  },
+  {
+    "id": "9787a946-70d6-4bc3-bb0f-1f880b5d9871",
+    "score": 2,
+    "reasoning": "The response prioritizes trust and alignment through clear communication, framing organizational challenge management as building sustainable clarity, but remains primarily focused on present-state stabilization."
+  },
+  {
+    "id": "100c6887-c411-46d6-a834-de60153553cd",
+    "score": 6,
+    "reasoning": "The response frames 'long-term team development' as 'the more responsible and strategic choice' and warns that 'short-term revenue' decisions like salary cuts lead to long-lasting harm, consistently privileging future outcomes."
+  }
+]

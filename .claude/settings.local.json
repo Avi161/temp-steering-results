@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python 01_anonymize.py)",
+      "Bash(ls \"/Users/avigyapaudel/Documents/AI Safety/SPAR/temp-steering/\"*.env)",
+      "Bash(python3 -c ':*)",
+      "Read(//private/tmp/eval_chunks/**)",
+      "Bash(cp:*)",
+      "Bash(python3 03_reintegrate.py)"
+    ]
+  }
+}
